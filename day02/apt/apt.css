@@ -1,0 +1,28 @@
+.selected {
+  color: white;
+  background-color: black;
+  border-radius: 30px;
+  border: 1px solid lightgray;
+  padding: 5px 10px;
+}
+.unselected {
+  color: black;
+  background-color: white;
+  border-radius: 30px;
+  border: 1px solid lightgray;
+  padding: 5px 10px;
+}
+.all {
+  color: white;
+  background-color: #35c5f1;
+  border-radius: 30px;
+  border: 1px solid white;
+  padding: 5px 10px;
+}
+.graypill {
+  color: black;
+  background-color: #e6e6e6;
+  border-radius: 30px;
+  border: 1px solid white;
+  padding: 5px 10px;
+}

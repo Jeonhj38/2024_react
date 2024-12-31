@@ -1,0 +1,21 @@
+.kim {
+  color: grey;
+  border: none;
+  border-radius: 4px;
+  font-weight: 700;
+  padding: 5px;
+}
+.lee {
+  color: white;
+  background-color: #ff7777;
+  border: none;
+  border-radius: 4px;
+  font-weight: 700;
+  padding: 5px;
+}
+.jeon {
+  color: #80b7e6;
+  background-color: white;
+  border-radius: 4px;
+  border: 1px solid #80b7e6;
+}

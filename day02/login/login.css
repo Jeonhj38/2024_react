@@ -1,0 +1,21 @@
+.personal {
+  color: white;
+  background-color: #3e63dd;
+  margin-bottom: 10px;
+  width: 300px;
+  padding: 20px 30px 20px 30px;
+  border-radius: 30px;
+}
+.company {
+  color: white;
+  background-color: black;
+  margin-bottom: 10px;
+  width: 300px;
+  padding: 20px 30px 20px 30px;
+  border-radius: 30px;
+}
+
+i {
+  width: 220px;
+  text-align: end;
+}
