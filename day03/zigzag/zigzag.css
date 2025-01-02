@@ -1,0 +1,42 @@
+.cream {
+  width: 150px;
+  height: 300px;
+  background-color: rgb(255, 255, 255);
+}
+.cream > img {
+  width: 150px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+.name {
+  font-weight: 700;
+  font-size: 15px;
+  margin-bottom: 2px;
+}
+.ppl {
+  font-weight: 300;
+  font-size: 10px;
+  margin-bottom: 5%;
+}
+.sale {
+  color: hotpink;
+  font-weight: 700;
+}
+.price {
+  font-weight: 700;
+  font-size: 14px;
+}
+.free {
+  background-color: rgb(230, 223, 223);
+  color: gray;
+  border: none;
+  font-size: 8px;
+  border-radius: 5px;
+}
+.review {
+  color: gray;
+  font-size: 9px;
+  margin-bottom: 1px;
+}

@@ -1,0 +1,22 @@
+.btn {
+  color: white;
+  background-color: blue;
+  border: none;
+}
+
+.nice {
+  border-radius: 5px;
+}
+
+.true {
+  border-radius: 15px;
+}
+.p1 {
+  padding: 5px;
+}
+.p2 {
+  padding: 10px;
+}
+.p3 {
+  padding: 30px;
+}
