@@ -1,0 +1,72 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.box {
+  width: 100%;
+  height: 100%;
+}
+
+.red {
+  background-color: red;
+}
+.orange {
+  background-color: orange;
+}
+.yellow {
+  background-color: yellow;
+}
+.green {
+  background-color: green;
+}
+.blue {
+  background-color: blue;
+}
+.navy {
+  background-color: navy;
+}
+.purple {
+  background-color: purple;
+}
+.gray {
+  background-color: gray;
+}
+.black {
+  background-color: black;
+}
+.brown {
+  background-color: brown;
+}
+.pink {
+  background-color: pink;
+}
+.gold {
+  background-color: gold;
+}
+.orange {
+  background-color: silver;
+}
+.peach {
+  background-color: peachpuff;
+}
+.skyblue {
+  background-color: skyblue;
+}
+.hotpink {
+  background-color: hotpink;
+}
+.lightgray {
+  background-color: lightgrey;
+}
+.mint {
+  background-color: mediumspringgreen;
+}
+.aqua {
+  background-color: aqua;
+}
+.leaf {
+  background-color: lawngreen;
+}

@@ -1,0 +1,54 @@
+.photo {
+  width: 300px;
+  height: 400px;
+  display: inline-block;
+  background-image: url("image2.jpg");
+  background-size: cover;
+  border-radius: 10px;
+  color: white;
+  margin-right: 18px;
+  font-weight: 500pt;
+  font-size: 10pt;
+  padding: 15px;
+}
+.category {
+  color: white;
+
+  text-decoration: underline;
+  text-underline-offset: 10px;
+}
+.title {
+  margin-top: 20px;
+  color: white;
+  font-size: 22px;
+  font-weight: 700;
+}
+.sea {
+  width: 300px;
+  height: 400px;
+  display: inline-block;
+  background-image: url("image3.jpg");
+  background-size: cover;
+  border-radius: 10px;
+  color: white;
+  margin-right: 18px;
+}
+.grand {
+  width: 300px;
+  height: 400px;
+  display: inline-block;
+  background-image: url("image4.jpg");
+  background-size: cover;
+  border-radius: 10px;
+  color: white;
+  margin-right: 18px;
+}
+.full {
+  width: 300px;
+  height: 400px;
+  display: inline-block;
+  background-image: url("image5.jpg");
+  background-size: cover;
+  border-radius: 10px;
+  color: white;
+}
