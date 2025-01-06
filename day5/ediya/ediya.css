@@ -1,0 +1,23 @@
+.album {
+  width: 350px;
+  background-color: rgba(211, 211, 211, 0.945);
+  flex-direction: column;
+  padding: 10px 0px;
+}
+.mango {
+  width: 100%;
+  text-align: center;
+}
+.mango span {
+  margin-bottom: 5px;
+  display: block;
+  margin-top: 20px;
+}
+.coffee {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+.mango img:hover {
+  transform: rotate(30deg);
+}

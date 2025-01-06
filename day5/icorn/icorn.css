@@ -1,0 +1,57 @@
+.container {
+  width: 500vw;
+  height: 500vh;
+  border: 1px solid;
+  display: flex;
+  display: contents;
+}
+.edu {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  border-radius: 999px;
+  font-size: 13px;
+  font-weight: 10px;
+  background-color: rgb(159, 193, 245);
+  margin-right: 30px;
+}
+.list {
+  width: 100px;
+  height: 100px;
+  border-radius: 999px;
+  margin-right: 30px;
+  display: inline-block;
+  font-size: 13px;
+  font-weight: 10px;
+  background-color: rgb(159, 193, 245);
+}
+.memo {
+  width: 100px;
+  height: 100px;
+  border-radius: 999px;
+  margin-right: 30px;
+  display: inline-block;
+  font-size: 13px;
+  font-weight: 10px;
+  background-color: rgb(159, 193, 245);
+}
+.qna {
+  width: 100px;
+  height: 1000px;
+  border-radius: 999px;
+  margin-right: 30px;
+  display: inline-block;
+  font-size: 13px;
+  font-weight: 10px;
+  background-color: rgb(159, 193, 245);
+}
+.road {
+  width: 100px;
+  height: 100px;
+  border-radius: 999px;
+  margin-right: 30px;
+  display: inline-block;
+  font-size: 13px;
+  font-weight: 10px;
+  background-color: rgb(159, 193, 245);
+}
