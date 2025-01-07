@@ -1,0 +1,31 @@
+.pizzatitle {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  margin-bottom: 15px;
+}
+.pizza {
+  font-weight: 700;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background-color: lightgray;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  gap: 30px;
+  width: 250px;
+  height: 350px;
+}
+.pizza > img {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  width: 250px;
+  object-fit: cover;
+}
+
+.size {
+  background-color: yellow;
+  margin: 2px;
+  border-radius: 9999px;
+  font-size: 14px;
+}

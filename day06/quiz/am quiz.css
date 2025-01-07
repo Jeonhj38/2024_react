@@ -1,0 +1,50 @@
+.bagsell {
+  color: black;
+  background-color: lightgrey;
+  border-radius: 20px;
+  width: 150px;
+  height: 30px;
+  text-align: center;
+  font-size: 12px;
+}
+.hospital {
+  color: black;
+  background-color: lightgrey;
+  border-radius: 20px;
+  width: 150px;
+  height: 30px;
+  text-align: center;
+  font-size: 12px;
+}
+.nopeople {
+  color: black;
+  background-color: lightgrey;
+  border-radius: 20px;
+  width: 150px;
+  height: 30px;
+  text-align: center;
+  font-size: 12px;
+}
+.map {
+  color: black;
+  background-color: lightgrey;
+  border-radius: 20px;
+  width: 150px;
+  height: 30px;
+  text-align: center;
+  font-size: 12px;
+}
+.mademap {
+  color: black;
+  background-color: lightgrey;
+  border-radius: 20px;
+  width: 150px;
+  height: 30px;
+  text-align: center;
+  font-size: 12px;
+}
+.card {
+  width: 300px;
+  height: 500px;
+  background-color: orange;
+}
