@@ -1,0 +1,19 @@
+.container {
+  width: 300px;
+  height: 300px;
+  border: 1px solid black;
+  overflow: scroll;
+}
+
+.box {
+  width: 500px;
+  height: 100px;
+  background-color: pink;
+}
+
+.box > li {
+  width: 500px;
+  height: 100px;
+  background-color: pink;
+  overflow: scroll;
+}
