@@ -1,0 +1,29 @@
+.jumbotron {
+  height: 80vh;
+  background-image: url(company.jpg);
+  background-size: cover;
+  background-position: 50% 50%;
+  position: relative;
+  padding-top: 300px;
+}
+.jumbotron > .contents {
+  width: 500px;
+  max-width: 1200px;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  color: white;
+}
+.jumbotron > .contents > h1 {
+  margin-bottom: 30px;
+  font-size: 100px;
+}
+.jumbotron > .contents > p {
+  margin-bottom: 40px;
+  font-size: 12px;
+}
+.jumbotron > .contents > button {
+  width: fit-content;
+  padding: 5px 180px;
+  border: 1px solid white;
+}
