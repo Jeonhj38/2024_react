@@ -1,7 +1,7 @@
 .jumbotron {
-  height: 80vh;
+  height: 100vh;
   padding-top: 300px;
-  background-image: url(space.jpg);
+  background-image: url(coco.png);
   background-size: cover;
   background-position: 50% 50%;
   position: relative;
@@ -12,5 +12,5 @@
   display: flex;
   flex-direction: column;
   margin: 0 auto;
-  color: white;
+  color: rgba(52, 67, 99, 0.836);
 }

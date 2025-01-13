@@ -11,3 +11,90 @@
   align-items: center;
   gap: 30px;
 }
+.news > .contents > h3 {
+  font-size: 40px;
+  margin-bottom: 50px;
+}
+
+.contents > .card {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.card > article {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.card > article > figure {
+  width: 100%;
+  height: 200px;
+}
+
+.card > article > figure > img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.contents > .card2 {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.card2 > article {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.card2 > article > figure > img {
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+}
+.card2 {
+  font-size: 27px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.card2 > article > .little {
+  font-size: 12px;
+  text-align: center;
+  font-weight: 0;
+}
+
+.contents > .card3 {
+  /* width: 100%;
+  display: flex;
+  justify-content: center;
+  gap: 20px; */
+}
+
+.card3 > article {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.card3 > article > figure {
+  width: 100%;
+  height: 200px;
+}
+
+.card3 > article > figure > img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.card3 {
+  display: grid;
+  gap: 5px;
+  grid-template-columns: repeat(2, 1fr);
+}
